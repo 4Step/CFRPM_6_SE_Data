@@ -1,0 +1,3 @@
+A.	Use the Colonial Parkway SE data, but eliminate the Polk data (County ID=10) from the DBF.
+B.	Eliminate all the data from Justin’s file with the exception of the Polk Data (County 10)
+C.	Merge A & B.
